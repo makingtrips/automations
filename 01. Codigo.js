@@ -45,8 +45,7 @@ const COL_CUOTA_12      = 61;  // BI
 const COL_VALIDEZ       = 65;  // BM
 const COL_TEXTO_PUB     = 66;  // BN
 const COL_LINK_HOTEL    = 68;  // BP
-const FILA_HEADER       = 2;
-
+const FILA_HEADER       = 2;// Fila del encabezado (base 1)
 // URL de la Web App (directa, sin intermediario)
 const WEBAPP_URL = 'https://script.google.com/macros/s/AKfycby9J92SfLi3PzUbDumFzshQf9kcmjyApJVDQIzJ_CTBxvsLdTCr9Noett-CiOva74DK/exec';
 const BITLY_URL = 'https://bit.ly/makingtrips-';
